@@ -1,4 +1,4 @@
-#include <my_struct.h>
+#include "my_struct.h"
 
 void InitializeCircle(Circle *c, double radius, double originX, double originY);
 void InitializeRectangle(Rectangle *r, double minX, double maxX, double minY, double maxY);

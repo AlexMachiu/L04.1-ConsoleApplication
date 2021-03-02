@@ -1,4 +1,4 @@
-#include <prototipuri.h>
+#include "prototipuri.h"
 #include <stdio.h>
 
 void PrintTriangle(Triangle *t);
